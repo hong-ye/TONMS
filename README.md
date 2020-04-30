@@ -9,7 +9,7 @@ The demo code is tested on Ubuntu16.04 with CUDA8.0
   SOTS indoor test results:  
   链接：https://pan.baidu.com/s/17rND1ssQ88fgHmLc6mUg_A  提取码：ipzm  
   SOTS outdoor test results:  
-  链接：https://pan.baidu.com/s/1pRqIfJZXdL8SJ8T-BTSRow  提取码：1iny
+  链接：https://pan.baidu.com/s/1pRqIfJZXdL8SJ8T-BTSRow  提取码：1iny  
   The model was trained on the RESIDE indoor dataset:  
   链接：https://pan.baidu.com/s/1LNWkrpSFuD6OGNjy0zCOCg  提取码：8qzv  
   SOTS indoor test results from the model trained on the RESIDE indoor dataset:  
