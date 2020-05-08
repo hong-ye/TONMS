@@ -1,6 +1,6 @@
 # TONMS
 Installation
-====
+------
 The demo code is tested on Ubuntu16.04 with CUDA8.0
 1. Please download and compile our Caffe  
   make all    
@@ -20,7 +20,7 @@ The demo code is tested on Ubuntu16.04 with CUDA8.0
   ![](https://github.com/hong-ye/TONMS/blob/master/results/1.png)
   
   Citation
-  ----
+  ------
   @ARTICLE{9088248,  
            author={R. {Li} and J. {Pan} and M. {He} and Z. {Li} and J. {Tang}},  
            journal={IEEE Transactions on Image Processing},  
