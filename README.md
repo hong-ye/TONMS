@@ -26,6 +26,5 @@ The demo code is tested on Ubuntu16.04 with CUDA8.0
            author={R. {Li} and J. {Pan} and M. {He} and Z. {Li} and J. {Tang}},  
            journal={IEEE Transactions on Image Processing},  
            title={Task-Oriented Network for Image Dehazing},  
-           year={2020},  
-           pages={1-12}  
+           year={2020} 
            }
