@@ -7,7 +7,7 @@ The demo code is tested on Ubuntu16.04 with CUDA8.0
   make matcaffe  
   The demo code in matlab/demo folder.
   
- 2. Experimental results:    
+ 2. Experimental results on the public datasets:    
   SOTS indoor test results:  
   链接：https://pan.baidu.com/s/17rND1ssQ88fgHmLc6mUg_A  提取码：ipzm  
   SOTS outdoor test results:  
