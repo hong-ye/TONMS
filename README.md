@@ -25,10 +25,10 @@ The demo code is tested on Ubuntu16.04 with CUDA8.0
   Citation
   ------
 @ARTICLE{9088248,
-  author={R. {Li} and J. {Pan} and M. {He} and Z. {Li} and J. {Tang}},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Task-Oriented Network for Image Dehazing}, 
-  year={2020},
-  volume={29},
-  number={},
+  author={R. {Li} and J. {Pan} and M. {He} and Z. {Li} and J. {Tang}},  
+  journal={IEEE Transactions on Image Processing},   
+  title={Task-Oriented Network for Image Dehazing},   
+  year={2020},  
+  volume={29},  
+  number={},  
   pages={6523-6534},}
